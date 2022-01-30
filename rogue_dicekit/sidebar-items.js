@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["WeightedTable","`WeightedTable` is a class for generating weighted tables for roleplaying easily."]],"trait":[["Dice","Dice Extension to Rng"]]});
