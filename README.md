@@ -1,8 +1,7 @@
 # Dicekit
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Actions Status](https://github.com/huhlig/dicekit/workflows/Rust/badge.svg)](https://github.com/huhlig/dicekit/actions)
-[![Actions Status](https://github.com/huhlig/dicekit/workflows/Docs/badge.svg)](https://github.com/huhlig/dicekit/actions)
+[![Actions Status](https://github.com/RoguishStudios/dicekit/actions/workflows/ci.yml/badge.svg)](https://github.com/RoguishStudios/dicekit/actions)
 
 ([API Docs])
 
@@ -17,4 +16,4 @@ This project is licensed under [Apache License, Version 2.0](http://www.apache.o
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as 
 defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
-[API Docs]: https://huhlig.github.io/dicekit/
+[API Docs]: https://RoguishStudios.github.io/dicekit/
